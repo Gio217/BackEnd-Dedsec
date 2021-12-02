@@ -1,0 +1,14 @@
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\bin\Debug\netcoreapp2.1\GameSuporte.deps.json
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\bin\Debug\netcoreapp2.1\GameSuporte.runtimeconfig.json
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\bin\Debug\netcoreapp2.1\GameSuporte.runtimeconfig.dev.json
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\bin\Debug\netcoreapp2.1\GameSuporte.dll
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\bin\Debug\netcoreapp2.1\GameSuporte.pdb
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.csprojAssemblyReference.cache
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.csproj.CoreCompileInputs.cache
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.RazorAssemblyInfo.cache
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.RazorAssemblyInfo.cs
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.AssemblyInfoInputs.cache
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.AssemblyInfo.cs
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.RazorTargetAssemblyInfo.cache
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.dll
+C:\Users\unasp.aluno\Desktop\Trabalho-Ali\Trabalho-Ali\WebApplication2\obj\Debug\netcoreapp2.1\GameSuporte.pdb
